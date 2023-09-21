@@ -2,36 +2,36 @@
     <section class="categories uppercase text-center">
         <div>
             <h3>Project</h3>
-            <p class="text-white text-center">bronco crater crawler</p>
+            <p class="text-white text-center">2023 Ford Bronco</p>
         </div>
         <div>
             <h3>YEAR</h3>
             <p class="text-white text-center">2023</p>
         </div>
         <div>
-            <h3>CATEGORY</h3>
-            <p class="text-white text-center">DIGITAL</p>
+            <h3>adress</h3>
+            <p class="text-white text-center">Orlando, Fl</p>
         </div>
         <div>
             <h3>COMPANY</h3>
-            <p class="text-white text-center">AETRAL STUDIO</p>
+            <p class="text-white text-center">Ford</p>
         </div>
     </section>
     <section class="texto text-xl text-normal">
         <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum nam et quas voluptates, dolore deserunt adipisci voluptatum, fugiat in, ipsum pariatur id! Unde eveniet culpa cupiditate consequuntur. Quis, error necessitatibus? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum nam et quas voluptates, dolore deserunt adipisci voluptatum, fugiat in, ipsum pariatur id! Unde eveniet culpa cupiditate consequuntur. Quis, error necessitatibus?
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum nam et quas voluptates, dolore deserunt adipisci voluptatum, fugiat in, ipsum pariatur id! Unde eveniet culpa cupiditate consequuntur. Quis, error necessitatibus?
+            For a next-level adventure close to the city, Ford Bronco Raptor® is your best option. Go through snow, rocks, cracks and even natural bridges. Go to the top of the Nebraska and discover the great power of the Ford Performance family thanks to its 3.0-liter EcoBoost® engine and its 418 horsepower with 440 pound-feet of Torque that will make any obstacle a walk in the park.
+            Choose your adventure and conquer any challenge with one of the Indomitable legends. No matter the terrain, the Ford Bronco family continues to expand its legacy with vehicles specifically produced to deliver unmatched performance and provide fans of speed, off-roading and adrenaline. an experience without limit.
         </p>
         <p class="mt-5">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum nam et quas voluptates, dolore deserunt adipisci voluptatum, fugiat in, ipsum pariatur id! Unde eveniet culpa cupiditate consequuntur. Quis, error necessitatibus?
+            Conquer the heat, the sand, discover more than 500 species and be surprised by a volcanic crater aboard your new ally, the Indomitable Ford Bronco. Travel in great safety aboard the 4X4 SUV from which the roof and doors can be removed to maximize the outdoor experience. Its 6 airbags will take you safely to any terrain.
         </p>
     </section>
     <section class="text-normal uppercase flex justify-center items-center">
-        <p>FORD BRONCO</p>
+        <p>keyless entry</p>
         <div class="guion"></div>
-        <p>FORD BRONCO</p>
+        <p>Navigation System</p>
         <div class="guion"></div>
-        <p>FORD BRONCO</p>
+        <p>Turbo Charged Engine</p>
     </section>
 </div>
 

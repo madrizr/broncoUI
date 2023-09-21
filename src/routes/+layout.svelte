@@ -7,28 +7,29 @@
     import Design from './components/home/design.svelte';
     import Header from './components/home/header.svelte'
     import Lead from './components/home/lead.svelte';
-    import ModelTwo from './components/home/model-two.svelte';
-    import Model from './components/home/model.svelte';
+    import Comparation from './components/home/comparation.svelte';
     import Phrase from './components/home/phrase.svelte';
     import Rear from './components/home/rear.svelte';
     import SectionImg from './components/home/section-img.svelte';
     import Footer from './components/shared/layout/footer.svelte';
     
 </script>
-<div>
+<div class="bg-black">
     <Header />
     <Description />
-    <Model />
+    <Comparation />
     <Lead />
     <Phrase />
     <Design />
     <DesignTwo />
     <Rear />
-    <ModelTwo />
+    <Comparation imageLeftSrc="/assets/comparation/bronco-horizon.jpg" imageRightSrc="/assets/comparation/bronco_horizon-snow.jpg" />
     <DesignThree />
-    <ModelTwo />
+    <Comparation imageLeftSrc="/assets/comparation/bronco_diag-snow.jpg" imageRightSrc="/assets/comparation/bronco-night.jpg" />
     <BroncoRoads />
-    <ModelTwo />
+    <div class="my-5">
+        <Comparation imageLeftSrc="/assets/comparation/bronco_diag-snow_night.jpg" imageRightSrc="/assets/comparation/bronco_diag-snow_day.jpg" />
+    </div>
     <SectionImg image="/assets/bronco-snow.png" alt="bronco-snow" />
     <Footer />
 </div>
