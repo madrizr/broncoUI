@@ -60,7 +60,7 @@
         color: #1d51aa;
         font-weight: BOLD;
     }
-    @media (max-width: 900px){
+    @media (max-width: 1024px){
         .contaner_{
             padding: 4rem 2rem;
         }
