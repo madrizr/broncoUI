@@ -7,7 +7,7 @@
     import Design from './components/home/design.svelte';
     import Header from './components/home/header.svelte'
     import Lead from './components/home/lead.svelte';
-    import Comparation from './components/home/comparation.svelte';
+    import Comparation from './components/shared/comparation.svelte';
     import Phrase from './components/home/phrase.svelte';
     import Rear from './components/home/rear.svelte';
     import SectionImg from './components/home/section-img.svelte';
